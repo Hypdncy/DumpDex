@@ -1,0 +1,11 @@
+.idea/
+.gradle/
+.cxx/
+.DS_Store/
+.vscode/
+build/
+
+
+
+/local.properties
+
